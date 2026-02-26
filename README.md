@@ -3,7 +3,8 @@
 
 It is a deep learning-based image classification project that automatically identifies garbage types (plastic, metal, cardboard, etc.) using EfficientNetV2B2 — a state-of-the-art transfer learning model. This solution enables intelligent waste segregation and supports eco-friendly smart city applications.
 
-Features:
+
+**Features:**
 
 1.Advanced CNN: EfficientNetV2B2 for superior performance and faster training.
 
@@ -14,7 +15,9 @@ Features:
 4.Evaluation Metrics: Precision, recall, F1-score, and confusion matrix.
 
 5.Web Interface (Gradio): Easy-to-use UI for testing the model in real-time.
-Garbage Categories:
+
+
+**Garbage Categories:**
 
 1.Cardboard
 
@@ -27,7 +30,9 @@ Garbage Categories:
 5.Plastic
 
 6.Trash
-Technologies Used
+
+
+**Technologies Used**
 
 1.TensorFlow / Keras: Deep Learning Framework
 
@@ -37,8 +42,10 @@ Technologies Used
 
 4.Gradio: Interface Deployment
 
-5.Python, Jupyter Notebook: Development Environment
-Use Cases
+5.Python, Jupyter Notebook: Development Environment\
+
+
+**Use Cases**
 
 1.Smart Waste Management
 
